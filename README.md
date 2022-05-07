@@ -15,8 +15,9 @@ Current project is a refactor. It demonstrates the possible walk path from Blue 
 ## How to Run: 
 1. Fork this repository.
 2. Clone the forked repository.
-3. Open the clone and drag the index.html file to your open browser window.
-4. Click the button at the top of the page to view the possible walk path.
+3. Create/Take your own API access token from www.mapbox.com, it's free for the 1st 50,000 views in a month. Insert it in the mapanimation.js file on line 17 where 'INSERT API ACCESS TOKEN HERE AVAILABLE AT MAPBOX.COM' is in between the ''.
+5. Open the clone and drag the index.html file to your open browser window.
+6. Click the button at the top of the page to view the possible walk path.
 ## Future improvements: 
 Possible other routes could be added in case you wanted to avoid certain streets or traffic. There were 2 other routes that were 1 min. shorter, but required more of an elevation shift/climb/descent.
 ## License information: 
