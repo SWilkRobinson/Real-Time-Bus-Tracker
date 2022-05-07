@@ -14,7 +14,7 @@ const walkHere = [
   [-83.04683177097833, 42.33887634401854],
 ];
   
-mapboxgl.accessToken = 'pk.eyJ1Ijoic3dpbGsiLCJhIjoiY2wycXVyNm12MGl1eDNjcXJoMWkydzZ5cyJ9.1Byua7s0yB4FNlB9fbGQ-g';
+mapboxgl.accessToken = 'INSERT API ACCESS TOKEN HERE AVAILABLE AT MAPBOX.COM';
   
 let map = new mapboxgl.Map({
   container: 'map',
